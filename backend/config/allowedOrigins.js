@@ -1,7 +1,3 @@
-const allowedOrigins = [
-	'http://localhost:5173',
-	'https://www.dandrepairshop.com',
-	'https://dandrepairshop.com',
-];
+const allowedOrigins = ['https://technotes-frontend-veer.onrender.com'];
 
 module.exports = allowedOrigins;
